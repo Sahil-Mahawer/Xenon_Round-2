@@ -69,6 +69,22 @@ npm start
 
 Note: Make sure that you have installed 'nodemon' as global package.
 
+## Screenshot
+
+###  Login Page
+![Check Your Internet Connection](https://ibb.co/QJKWXkg)
+[Click to view image if above image is not visible](https://ibb.co/QJKWXkg)
+
+### Register
+![Check Your Internet Connection](https://ibb.co/mTkqcKC)
+[Click to view image if above image is not visible](https://ibb.co/mTkqcKC)
+
+### Home Page
+![Check Your Internet Connection](https://ibb.co/ggX5CrY)
+[Click to view image if above image is not visible](https://ibb.co/ggX5CrY)
+
+
+
 ```
 cd server
 npm install
