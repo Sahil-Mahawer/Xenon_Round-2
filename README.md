@@ -69,6 +69,12 @@ npm start
 
 Note: Make sure that you have installed 'nodemon' as global package.
 
+```
+cd server
+npm install
+npm run dev
+```
+
 ## Screenshot
 
 ###  Login Page
