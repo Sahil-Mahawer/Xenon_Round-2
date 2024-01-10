@@ -1,4 +1,4 @@
-# ToViewList | MERN
+# Online Archive
 
 A MERN stack app to keep track of online stuff, which you may want to view later.
 
@@ -91,8 +91,3 @@ npm run dev
 
 
 
-```
-cd server
-npm install
-npm run dev
-```
